@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-V-d_bzEEqF)
+- Live Site URL: [Live site URL](https://atefzaky.github.io/Insure-Landing-Page/)
 
 ## My process
 
