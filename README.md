@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-V-d_bzEEqF)
-- Live Site URL: [See It Live](https://insure-landing-page-chi-sage.vercel.app/)
+- Live Site URL: [See It live](https://insure-landing-page-chi-sage.vercel.app/)
 
 ## My process
 
