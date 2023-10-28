@@ -1,12 +1,26 @@
-# Frontend Mentor - Insure landing page solution
+<div align="center">
+  <h1 align="center">Insure landing page solution</h1>
+  <p align="center">
+    <a href="https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8"><strong>Frontend Mentor Challenge</strong></a>
+    <br />
+</div>
+<!-- Bagde -->
+<div align="center">
+  <!-- Profile -->
+  <a href="https://www.frontendmentor.io/profile/AtefZaky">
+    <img src="https://img.shields.io/badge/Profile-Atef_Zaky-CE5A67?labelColor=1F1717&style=for-the-badge&logo=frontendmentor" alt="Atef Profile">
+</div>
+<br/>
+<div align="center">
 
-This is a solution to the [Insure landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![](./desktop-preview.jpg)
+
+</div>
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -21,18 +35,17 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-
-![](./screenshot.png)
-
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-V-d_bzEEqF)
+- Live Site URL: [See It Live](https://insure-landing-page-chi-sage.vercel.app/)
 
 ## My process
 
 ### Built with
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-48bdf8?style=for-the-badge&logo=css3&logoColor=white)
 
 - Semantic HTML5 markup
 - CSS custom properties
